@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ![cab](https://github.com/prosehe/prosehe/blob/main/Banner.jpg)
 Apasionado de la tecnología y de la personas. Disfruto tanto de una cerveza en buena compañía como de lo último en IOT. En constante aprendizaje.
-- 🌱 I’m currently learning Telco Enginner
-- 👯 I’m looking to collaborate on 
+- 🌱 I’m currently learning Telecommunications Engineer
+- 👯 I’m collaborating on <img src="https://github.com/prosehe/prosehe/blob/main/LogoCocoon.png"  height="30" />
