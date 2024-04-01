@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **prosehe/prosehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![cab](https://github.com/prosehe/prosehe/blob/main/Banner.jpg)
-Apasionado de la tecnología y de la personas. Disfruto tanto de una cerveza en buena compañía como de lo último en IOT. En constante aprendizaje.
+Apasionado de la tecnología y de la personas. Disfruto tanto de una cerveza en buena compañía, como de lo último en IOT. En constante aprendizaje.
 - 🌱 I’m currently learning Telecommunications Engineer
 - 👯 I’m collaborating on <img src="https://github.com/prosehe/prosehe/blob/main/LogoCocoon.png"  height="30" />
